@@ -1,14 +1,18 @@
 # Ambiente 
 
-## Instalando Pacotes
+## Pacotes
 
-No diretório raiz e execute o comando abaixo:
+Execute o notebook abaixo para instalar os pacotes:
+
+[packages.ipynb](https://github.com/charlesluizmendes/SentimentAnalysis/blob/feature/notebook/src/packages.ipynb)
+
+Também temos a opção de instalar pelo comando abaixo:
 
 ```
 $ pip install -r requirements.txt
 ```
 
-Ou se prefirir pode instalar manualmente os pacotes:
+Ou se prefirir, pode instalar manualmente os pacotes:
 
 ```
 pip install python-dotenv
