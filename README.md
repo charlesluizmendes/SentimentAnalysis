@@ -38,3 +38,11 @@ Primeiramente vamos criar o dataset com notebook:
 Após isso, vamos criar o modelo treinando para análise de sentimentos com o notebook:
 
 [processing.ipynb](https://github.com/charlesluizmendes/SentimentAnalysis/blob/feature/notebook/src/processing.ipynb)
+
+# Testes
+
+## Inferência
+
+Agora podemos fazer a inferência do modelo gerado na etapa anterior, basta executar o notebook:
+
+[inference.ipynb](https://github.com/charlesluizmendes/SentimentAnalysis/blob/feature/notebook/src/inference.ipynb)
